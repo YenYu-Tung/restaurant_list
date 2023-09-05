@@ -1,9 +1,12 @@
 # restaurant_list
 ## features
 * check up all restaurant
+![image](https://github.com/YenYu-Tung/restaurant_list/blob/master/res-list-main.png)
 * for more detail information
 * see the location on google map
+![image](https://github.com/YenYu-Tung/restaurant_list/blob/master/res-list-show.png)
 * search for specific restaurant
+![image](https://github.com/YenYu-Tung/restaurant_list/blob/master/res-list-show.png)
 ## environment setup
 * install node.js & npm
 * clone the repository to local
